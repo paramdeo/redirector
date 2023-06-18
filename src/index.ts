@@ -11,6 +11,7 @@ const redirects = {
   "twitter": "https://twitter.com/paramdeodotcom",
   "instagram": "https://instagram.com/paramdeodotcom",
   "facebook": "https://facebook.com/paramdeodotcom",
+  "linkedin": "https://www.linkedin.com/in/paramdeo",
   "tumblr": "https://paramdeo.tumblr.com",
   "hackernews": "https://news.ycombinator.com/user?id=oedmarap",
   "matrix": "https://matrix.to/#/@paramdeo:matrix.org",
