@@ -10,7 +10,7 @@ const redirects = {
   "mastodon": "https://fosstodon.org/@paramdeo",
   "twitter": "https://twitter.com/paramdeo_",
   "instagram": "https://instagram.com/paramdeo_",
-  "facebook": "https://facebook.com/paramdeodotcom",
+  "facebook": "https://facebook.com/paramdeoksingh",
   "linkedin": "https://www.linkedin.com/in/paramdeo",
   "tumblr": "https://paramdeo.tumblr.com",
   "hackernews": "https://news.ycombinator.com/user?id=oedmarap",
