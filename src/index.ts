@@ -9,6 +9,7 @@ const redirects = {
   "github": "https://github.com/paramdeo",
   "gitlab": "https://gitlab.com/paramdeo",
   "mastodon": "https://fosstodon.org/@paramdeo",
+  "messenger": "https://m.me/paramdeoksingh",
   "twitter": "https://twitter.com/paramdeo_",
   "instagram": "https://instagram.com/paramdeo_",
   "facebook": "https://facebook.com/paramdeoksingh",
