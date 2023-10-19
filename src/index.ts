@@ -4,6 +4,7 @@ const app = new Hono({ strict:false })
 
 // Create list of redirects => https://go.paramdeo.com/github
 const redirects = {
+  "behance": "https://behance.net/paramdeo",
   "bluesky": "https://bsky.app/profile/paramdeo.com",
   "buymeacoffee": "https://www.buymeacoffee.com/paramdeo",
   "kofi": "https://ko-fi.com/paramdeo",
