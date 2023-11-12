@@ -22,6 +22,7 @@ const redirects = {
   "hackernews": "https://news.ycombinator.com/user?id=oedmarap",
   "matrix": "https://matrix.to/#/@paramdeo:matrix.org",
   "telegram": "https://t.me/paramdeo",
+  "society6": "https://society6.com/paramdeo",
   "keyoxide": "https://keyoxide.org/7B1AB72BF6C41AE362FC39887FBBB4E5A7D02A1E",
   "digitalocean ": "https://m.do.co/c/172de6c6559d",
   "bunnycdn": "https://bunnycdn.com/?ref=66lg2a410o",
