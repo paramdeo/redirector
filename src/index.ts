@@ -30,7 +30,8 @@ const redirects = {
   "nextdns": "https://nextdns.io/?from=7tvfcujm",
   "canva": "https://www.canva.com/join/kvh-ynx-cxj",
   "side-projects": "https://paramdeo.com/portfolio-side-projects",
-  "sideprojects": "https://paramdeo.com/portfolio-side-projects"
+  "sideprojects": "https://paramdeo.com/portfolio-side-projects",
+  "warp": "https://app.warp.dev/referral/R5PYG5"
 } as const
 
 // Create Map from Object for efficient lookups
