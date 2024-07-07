@@ -10,6 +10,7 @@ const redirects = {
   "kofi": "https://ko-fi.com/paramdeo",
   "paypal": "https://paypal.me/paramdeo",
   "discord": "https://discord.com/channels/@me/1007392034392383559",
+  "fundrise": "https://fundrise.com/r/7v0495",
   "github": "https://github.com/paramdeo",
   "gitlab": "https://gitlab.com/paramdeo",
   "mastodon": "https://fosstodon.org/@paramdeo",
