@@ -7,6 +7,7 @@ const redirects = {
   "behance": "https://behance.net/paramdeo",
   "bluesky": "https://bsky.app/profile/paramdeo.com",
   "buymeacoffee": "https://www.buymeacoffee.com/paramdeo",
+  "capitalone": "https://i.capitalone.com/JrSCjZNN4",
   "kofi": "https://ko-fi.com/paramdeo",
   "paypal": "https://paypal.me/paramdeo",
   "discord": "https://discord.com/channels/@me/1007392034392383559",
@@ -30,6 +31,7 @@ const redirects = {
   "bunnycdn": "https://bunnycdn.com/?ref=66lg2a410o",
   "nextdns": "https://nextdns.io/?from=7tvfcujm",
   "canva": "https://www.canva.com/join/kvh-ynx-cxj",
+  "public": "https://public.com/user-referral?referrer=paramdeo",
   "side-projects": "https://paramdeo.com/portfolio-side-projects",
   "sideprojects": "https://paramdeo.com/portfolio-side-projects",
   "warp": "https://app.warp.dev/referral/R5PYG5"
