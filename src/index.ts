@@ -23,6 +23,7 @@ const redirects = {
   "tumblr": "https://paramdeo.tumblr.com",
   "hackernews": "https://news.ycombinator.com/user?id=oedmarap",
   "matrix": "https://matrix.to/#/@paramdeo:matrix.org",
+  "privacy": "https://app.privacy.com/join/BWXLA",
   "telegram": "https://t.me/paramdeo",
   "society6": "https://society6.com/paramdeo",
   "redbubble": "https://paramdeo.redbubble.com",
